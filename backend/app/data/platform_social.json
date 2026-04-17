@@ -1,0 +1,374 @@
+{
+  "connections": [
+    "0|1",
+    "0|2",
+    "0|3",
+    "0|4",
+    "0|5",
+    "0|6",
+    "0|7",
+    "0|8",
+    "0|9",
+    "0|10",
+    "0|11",
+    "0|12",
+    "0|13",
+    "0|14",
+    "0|15",
+    "1|2",
+    "1|3",
+    "1|4",
+    "1|5",
+    "1|6",
+    "1|7",
+    "1|8"
+  ],
+  "thread_labels": {
+    "0|student:req-1": {
+      "virtual_peer": "student:req-1",
+      "label": "Aditi K."
+    },
+    "0|student:req-2": {
+      "virtual_peer": "student:req-2",
+      "label": "Rahul S."
+    },
+    "0|student:req-3": {
+      "virtual_peer": "student:req-3",
+      "label": "Meera V."
+    },
+    "0|student:req-4": {
+      "virtual_peer": "student:req-4",
+      "label": "Campus chapter (ConXn)"
+    },
+    "0|student:req-5": {
+      "virtual_peer": "student:req-5",
+      "label": "Kiran P."
+    },
+    "0|student:req-6": {
+      "virtual_peer": "student:req-6",
+      "label": "Sana A."
+    },
+    "0|student:req-7": {
+      "virtual_peer": "student:req-7",
+      "label": "Arjun M."
+    },
+    "0|student:req-8": {
+      "virtual_peer": "student:req-8",
+      "label": "Neha R."
+    },
+    "1|student:req-1": {
+      "virtual_peer": "student:req-1",
+      "label": "Aditi K."
+    },
+    "1|student:req-2": {
+      "virtual_peer": "student:req-2",
+      "label": "Rahul S."
+    },
+    "1|student:req-3": {
+      "virtual_peer": "student:req-3",
+      "label": "Meera V."
+    },
+    "1|student:req-4": {
+      "virtual_peer": "student:req-4",
+      "label": "Campus chapter (ConXn)"
+    },
+    "0|student:req-9": {
+      "virtual_peer": "student:req-9",
+      "label": "Dev N."
+    },
+    "0|student:req-10": {
+      "virtual_peer": "student:req-10",
+      "label": "Isha L."
+    },
+    "0|student:req-11": {
+      "virtual_peer": "student:req-11",
+      "label": "Rohan T."
+    },
+    "0|student:req-12": {
+      "virtual_peer": "student:req-12",
+      "label": "Priya G."
+    },
+    "0|student:req-13": {
+      "virtual_peer": "student:req-13",
+      "label": "Aman F."
+    },
+    "0|student:req-14": {
+      "virtual_peer": "student:req-14",
+      "label": "Tanya K."
+    }
+  },
+  "messages": {
+    "0|1": [
+      {
+        "id": "46e77797-9131-4779-b127-3439db4352d0",
+        "from": "1",
+        "body": "Hey — saw you're active on ConXn. Would love to swap notes on ML hiring this season.",
+        "at": "2026-04-16T23:40:24+00:00"
+      },
+      {
+        "id": "bc2a0542-57dd-4124-b332-d48af7b1a365",
+        "from": "0",
+        "body": "Hi! Happy to compare notes. Are you free for a quick call this week?",
+        "at": "2026-04-16T23:40:24+00:00"
+      },
+      {
+        "id": "acf4fb6a-b60a-41ff-93e0-158086f0f546",
+        "from": "1",
+        "body": "Tuesday evening works on my side.",
+        "at": "2026-04-16T23:40:24+00:00"
+      },
+      {
+        "id": "775bf50c-5fcc-422d-9194-7f7edbbd7b06",
+        "from": "0",
+        "body": "Great — I'll send a calendar placeholder.",
+        "at": "2026-04-16T23:40:24+00:00"
+      },
+      {
+        "id": "12023ef2-345f-4139-bcb3-4ff2c0074834",
+        "from": "0",
+        "body": "hi",
+        "at": "2026-04-16T23:44:33+00:00"
+      }
+    ],
+    "0|2": [
+      {
+        "id": "365fb7c6-aaa1-4adf-8643-52b39db451fb",
+        "from": "2",
+        "body": "Quick question: does your team still take interns via the campus program?",
+        "at": "2026-04-16T23:40:24+00:00"
+      },
+      {
+        "id": "129e6089-6516-4ffd-bdde-2027feab9c3f",
+        "from": "0",
+        "body": "We do — postings should be on the portal next week. I can ping you when live.",
+        "at": "2026-04-16T23:40:24+00:00"
+      }
+    ],
+    "0|3": [
+      {
+        "id": "57fee1d6-ca32-465c-9c48-990b76703122",
+        "from": "3",
+        "body": "Thanks for accepting my connection — I'm exploring product roles in fintech.",
+        "at": "2026-04-16T23:40:24+00:00"
+      },
+      {
+        "id": "db0c52d9-f41d-475d-89fd-8ce2cdd1320e",
+        "from": "0",
+        "body": "Welcome! Happy to share how we structure PM interviews if useful.",
+        "at": "2026-04-16T23:40:24+00:00"
+      },
+      {
+        "id": "eb97faa4-7a79-4630-8d59-db3bc1d82ef9",
+        "from": "3",
+        "body": "That would be amazing.",
+        "at": "2026-04-16T23:40:24+00:00"
+      }
+    ],
+    "0|4": [
+      {
+        "id": "dfa8f94c-4901-4e47-99b5-aa916534a6a8",
+        "from": "4",
+        "body": "Are you joining the alumni meetup in Bangalore next month?",
+        "at": "2026-04-16T23:40:24+00:00"
+      },
+      {
+        "id": "f2b8e753-6af1-4716-81d3-9493e44a4622",
+        "from": "0",
+        "body": "Planning to — let's grab coffee there if you're in town.",
+        "at": "2026-04-16T23:40:24+00:00"
+      }
+    ],
+    "1|2": [
+      {
+        "id": "3958b064-32c7-45ac-b528-d07752d2b8d3",
+        "from": "2",
+        "body": "Hi — could you intro me to someone on the payments team?",
+        "at": "2026-04-16T23:40:24+00:00"
+      },
+      {
+        "id": "2cf73999-c109-45de-81a9-a9ec2b1e4a0f",
+        "from": "1",
+        "body": "Yes — I'll intro over email. Give me a one-liner on what you're solving.",
+        "at": "2026-04-16T23:40:24+00:00"
+      }
+    ],
+    "0|student:req-1": [
+      {
+        "id": "09681243-4d4a-48bd-b42d-ab35bacb44ee",
+        "from": "student:req-1",
+        "body": "Would you be open to a 15-min chat about how you transitioned from campus to your current ML team? I am especially curious about take-home expectations.",
+        "at": "2026-04-16T23:40:24+00:00"
+      },
+      {
+        "id": "79c3c426-3269-4ec8-9804-55a341a66f53",
+        "from": "0",
+        "body": "Thanks for reaching out, Aditi — happy to do 15 minutes. I'll share a few time options in our next message.",
+        "at": "2026-04-16T23:40:24+00:00"
+      }
+    ],
+    "0|student:req-2": [
+      {
+        "id": "8d27a737-6d52-42c8-8346-6fa30dc5a836",
+        "from": "student:req-2",
+        "body": "Thanks again for the AMA last week. I had one more question about how your team evaluates research vs product impact in performance reviews.",
+        "at": "2026-04-16T23:40:24+00:00"
+      },
+      {
+        "id": "4c8718b3-d40b-4932-83a8-77bbb09140f3",
+        "from": "0",
+        "body": "Great question — we weight product impact slightly higher in promo cycles, but research still matters for ML roles. Happy to elaborate on a call.",
+        "at": "2026-04-16T23:40:24+00:00"
+      }
+    ],
+    "0|student:req-3": [
+      {
+        "id": "79d47e26-11c8-4fcb-afc7-1767d9c2d27c",
+        "from": "student:req-3",
+        "body": "Hi — I saw your path through payments and risk. I am applying for summer internships and would value 10 minutes of advice on how to position my CV.",
+        "at": "2026-04-16T23:40:24+00:00"
+      }
+    ],
+    "0|student:req-4": [
+      {
+        "id": "4fe8cc8c-942f-40c7-b844-02d8713459a9",
+        "from": "student:req-4",
+        "body": "Invitation: we are running a 24h fintech hackathon on April 28 and would love a mentor judge for the finals (remote, ~2h).",
+        "at": "2026-04-16T23:40:24+00:00"
+      }
+    ],
+    "0|student:req-5": [
+      {
+        "id": "583a2662-62a0-4644-96f1-510af6424542",
+        "from": "student:req-5",
+        "body": "I'm preparing for system design rounds — any tips from how your team runs architecture reviews?",
+        "at": "2026-04-16T23:40:24+00:00"
+      }
+    ],
+    "0|student:req-6": [
+      {
+        "id": "d2d6138e-9f2d-4be2-a820-219fd2b1fa0d",
+        "from": "student:req-6",
+        "body": "Could you look at my portfolio site (link in profile) and suggest 2–3 improvements before I apply?",
+        "at": "2026-04-16T23:40:24+00:00"
+      }
+    ],
+    "0|student:req-7": [
+      {
+        "id": "ee02ae58-b169-412f-9c9c-12077fba2d84",
+        "from": "student:req-7",
+        "body": "Our club is hosting a fireside on careers in quant — would you be open to joining as a panelist?",
+        "at": "2026-04-16T23:40:24+00:00"
+      }
+    ],
+    "0|student:req-8": [
+      {
+        "id": "a8d29965-14b6-4a29-9e21-493912c9aa66",
+        "from": "student:req-8",
+        "body": "I'm weighing startup vs big tech for my first role — any framework you used when you decided?",
+        "at": "2026-04-16T23:40:24+00:00"
+      }
+    ],
+    "1|student:req-1": [
+      {
+        "id": "eeb2f96a-319b-46a7-920b-4b8c89365ada",
+        "from": "student:req-1",
+        "body": "Would you be open to a 15-min chat about how you transitioned from campus to your current ML team? I am especially curious about take-home expectations.",
+        "at": "2026-04-16T23:41:02+00:00"
+      }
+    ],
+    "1|student:req-2": [
+      {
+        "id": "45525b69-d2d7-4b54-8dbd-8116f4f7948c",
+        "from": "student:req-2",
+        "body": "Thanks again for the AMA last week. I had one more question about how your team evaluates research vs product impact in performance reviews.",
+        "at": "2026-04-16T23:41:02+00:00"
+      }
+    ],
+    "1|student:req-3": [
+      {
+        "id": "e70a96f3-c1fb-444a-ae4c-61e43ef77bd5",
+        "from": "student:req-3",
+        "body": "Hi — I saw your path through payments and risk. I am applying for summer internships and would value 10 minutes of advice on how to position my CV.",
+        "at": "2026-04-16T23:41:02+00:00"
+      }
+    ],
+    "1|student:req-4": [
+      {
+        "id": "f496f9e3-03e7-42c8-822c-73a60e69e292",
+        "from": "student:req-4",
+        "body": "Invitation: we are running a 24h fintech hackathon on April 28 and would love a mentor judge for the finals (remote, ~2h).",
+        "at": "2026-04-16T23:41:02+00:00"
+      }
+    ],
+    "0|student:req-9": [
+      {
+        "id": "95cd9623-169c-4a4a-a2cc-9037af7a6ee8",
+        "from": "student:req-9",
+        "body": "I'm pivoting from backend to ML — could you suggest one project that would look credible on my resume?",
+        "at": "2026-04-16T23:59:06+00:00"
+      }
+    ],
+    "0|student:req-10": [
+      {
+        "id": "dc340672-e6f6-4d82-bae3-9295c0851b9f",
+        "from": "student:req-10",
+        "body": "Would you be willing to review my cold email to a hiring manager (draft below) before I send it?",
+        "at": "2026-04-16T23:59:06+00:00"
+      },
+      {
+        "id": "70178569-948d-4c93-a319-40935eafdbf4",
+        "from": "0",
+        "body": "hello",
+        "at": "2026-04-17T05:31:07+00:00"
+      }
+    ],
+    "0|student:req-11": [
+      {
+        "id": "c9821f88-1bc0-45ac-a852-ace08a52f4a6",
+        "from": "student:req-11",
+        "body": "Our team is building a small RAG demo for a college fest — any pitfall you wish you'd avoided early on?",
+        "at": "2026-04-16T23:59:06+00:00"
+      },
+      {
+        "id": "ea06868d-863f-4fa7-969f-f886716309ac",
+        "from": "0",
+        "body": "hello",
+        "at": "2026-04-17T06:19:39+00:00"
+      }
+    ],
+    "0|student:req-12": [
+      {
+        "id": "06b31aa2-d2ca-49a0-ac8a-f76b2ab4338b",
+        "from": "student:req-12",
+        "body": "I'm trying to choose between two offers (similar TC). What did you optimize for in your last move?",
+        "at": "2026-04-16T23:59:06+00:00"
+      }
+    ],
+    "0|student:req-13": [
+      {
+        "id": "0e93fc81-c1af-4044-9188-c2b62d835ae7",
+        "from": "student:req-13",
+        "body": "Could you share how you prep for stakeholder reviews when the project timeline slips?",
+        "at": "2026-04-16T23:59:06+00:00"
+      }
+    ],
+    "0|student:req-14": [
+      {
+        "id": "8dd84b94-f50c-4188-b646-c61596a2cbe2",
+        "from": "student:req-14",
+        "body": "I'm a first-gen student navigating referrals — what's a respectful way to follow up after no response for 10 days?",
+        "at": "2026-04-16T23:59:06+00:00"
+      }
+    ]
+  },
+  "mentor_seen": {
+    "0|student:req-3": true,
+    "0|student:req-4": true,
+    "0|student:req-6": true,
+    "0|student:req-8": true,
+    "0|student:req-10": true,
+    "0|student:req-12": true,
+    "0|student:req-14": true,
+    "0|student:req-11": true
+  }
+}

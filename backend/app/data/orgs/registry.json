@@ -1,0 +1,34 @@
+{
+  "orgs": [
+    {
+      "id": "org_21c94efc3442",
+      "name": "SRM",
+      "affiliated_colleges": [
+        "SRM",
+        "IIT Madras"
+      ]
+    },
+    {
+      "id": "org_1c1f46424d83",
+      "name": "Our alumni office",
+      "affiliated_colleges": [
+        "SRM"
+      ]
+    },
+    {
+      "id": "org_a7c46b2f398c",
+      "name": "srm",
+      "affiliated_colleges": [
+        "SRM"
+      ]
+    },
+    {
+      "id": "org_7997fafdf7d7",
+      "name": "srm",
+      "affiliated_colleges": [
+        "SRM",
+        "IIT Madras"
+      ]
+    }
+  ]
+}

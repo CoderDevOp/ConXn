@@ -1,0 +1,40 @@
+name,college,company,skills,location,experience
+Priya Sharma,IIT Madras,Google,"Python, Machine Learning, NLP",Chennai,8
+Arjun Mehta,IIT Madras,Microsoft,"Azure, Cloud, Kubernetes",Bangalore,6
+Sneha Reddy,IIT Delhi,OpenAI,"LLMs, Research, PyTorch",Hyderabad,5
+Vikram Singh,IIT Bombay,Meta,"Distributed Systems, C++",Mumbai,10
+Ananya Iyer,IIT Madras,Amazon,"Data Engineering, Spark, SQL",Chennai,7
+Rohit Khanna,IIT Kharagpur,Stripe,"Backend, Go, Payments",Pune,9
+Kavya Nair,IISc Bangalore,DeepMind,"Reinforcement Learning, JAX",Bangalore,4
+Aditya Joshi,IIT Madras,NVIDIA,"CUDA, Computer Vision",Chennai,6
+Meera Patel,IIT Delhi,Databricks,"Data Science, Delta Lake",Delhi,5
+Sanjay Verma,IIT Bombay,Uber,"Maps, ML, Geo",Mumbai,8
+Divya Krishnan,IIT Madras,Freshworks,"Full Stack, React, Node",Chennai,4
+Karthik Rao,IIT Hyderabad,Google,"AI, TensorFlow, TPU",Hyderabad,7
+Neha Gupta,IIT Kanpur,Microsoft,"Product, Strategy, AI",Noida,12
+Rahul Menon,IIT Madras,Atlassian,"DevOps, SRE, AWS",Chennai,5
+Ishita Bose,IIT Delhi,Anthropic,"Safety, Alignment, NLP",Gurgaon,3
+Aisha Khan,IIT Madras,OpenAI,"LLMs, RLHF, PyTorch, Transformers",Chennai,4
+Dev Patel,SRM Institute,Anthropic,"Claude, Constitutional AI, JAX",Chennai,3
+Riya Malhotra,IIT Bombay,Cohere,"Embeddings, Retrieval, NLP",Mumbai,5
+Kiran Rao,SRM University,Hugging Face,"Transformers, PEFT, Open Source ML",Chennai,4
+Noor Singh,IIT Delhi,Mistral AI,"LLM training, MoE, Research",Delhi,2
+Omar Haque,IIT Hyderabad,NVIDIA,"CUDA, TensorRT, Deep Learning",Hyderabad,6
+Tara Nambiar,IISc Bangalore,Google DeepMind,"JAX, TPU, Neural nets",Bangalore,5
+Vivek Sundaram,IIT Madras,Microsoft Research,"Azure ML, Transformers, NLP",Chennai,5
+Zara Ali,Stanford (exchange),Meta,"LLMs, Ranking, PyTorch",Bangalore,4
+Civil Kumar,IIT Roorkee,L&T,"Site execution, QA, Surveying",Chennai,7
+Hardware Priya,BITS Pilani,Intel,"SystemVerilog, UVM, RTL",Bangalore,6
+Rohan Mehta,IIM Ahmedabad,Razorpay,"Payments, Strategy, SQL",Bangalore,6
+Sneha Kulkarni,NMIMS Mumbai,CRED,"Growth, CRM, Analytics",Mumbai,4
+Vikram Desai,IIT Roorkee,PhonePe,"UPI, Backend, Java",Bangalore,5
+Ananya Bose,SRCC Delhi,Paytm,"Merchant ops, Excel",Noida,3
+Karan Malhotra,BITS Pilani,Zerodha,"Support, Markets, Compliance",Bangalore,4
+Priya Nambiar,NIT Trichy,Slice,"Risk, SQL, Rules",Chennai,3
+Aditya Sen,IIT Kharagpur,Groww,"Content, SEO, Video",Bangalore,2
+Meera Iyer,University of Calcutta,Policybazaar,"Actuarial, R",Kolkata,5
+Nikhil Rao,IIIT Bangalore,Jupiter Money,"UX, Research, Figma",Mumbai,4
+Divya Pillai,Anna University,Federal Bank,"Core banking, Java",Kochi,7
+Omar Siddiqui,IIM Calcutta,Goldman Sachs,"Strats, Python",Mumbai,6
+Lisa Chen,NUS Singapore,Wise,"Treasury, FX",Singapore,5
+James O'Brien,LSE,Revolut,"Compliance, MiCA",London,4
